@@ -1,0 +1,5 @@
+/Users/kush/Downloads/CustomerMaintenance/CustomerMaintenance/CustomerMaintenance/obj/Release/CustomerMaintenance.frmAddModifyCustomer.resources
+/Users/kush/Downloads/CustomerMaintenance/CustomerMaintenance/CustomerMaintenance/obj/Release/CustomerMaintenance.frmCustomerMaintenance.resources
+/Users/kush/Downloads/CustomerMaintenance/CustomerMaintenance/CustomerMaintenance/obj/Release/CustomerMaintenance.Properties.Resources.resources
+/Users/kush/Downloads/CustomerMaintenance/CustomerMaintenance/CustomerMaintenance/obj/Release/CustomerMaintenance.csproj.GenerateResource.cache
+/Users/kush/Downloads/CustomerMaintenance/CustomerMaintenance/CustomerMaintenance/obj/Release/CustomerMaintenance.csproj.CoreCompileInputs.cache
